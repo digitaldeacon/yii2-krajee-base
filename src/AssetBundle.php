@@ -49,7 +49,7 @@ class AssetBundle extends BaseAssetBundle
      * @inheritdoc
      */
     public $depends = [
-        'yii\web\YiiAsset',
+        'yii\jquery\YiiAsset',
     ];
 
     /**
